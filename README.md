@@ -9,7 +9,7 @@ The training data are splitted into train set and validation set with sizing of 
 Convolutional Neural Network (CNN) is selected due to it is the most efficient for image data set.
 Model: "sequential_1"
 _________________________________________________________________
-Layer (type)                 Output Shape              Param #   
+Layer (type)                 Output Shape              Param   
 =================================================================
 conv2d_3 (Conv2D)            (None, 26, 26, 32)        320       
 _________________________________________________________________
